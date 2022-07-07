@@ -1,4 +1,4 @@
-package leetcode刷题.algorithm_pattern.binary_tree.divide_and_conquer.merge_sort;
+package leetcode.algorithm_pattern.binary_tree.divide_and_conquer.merge_sort;
 
 import java.util.Arrays;
 
