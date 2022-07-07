@@ -1,4 +1,4 @@
-package leetcode刷题.algorithm_pattern.binary_tree.traversal.levelOrder;
+package leetcode.algorithm_pattern.binary_tree.traversal.levelOrder;
 
 import java.util.*;
 /**

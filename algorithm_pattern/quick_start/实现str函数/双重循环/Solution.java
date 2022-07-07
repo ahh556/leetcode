@@ -1,4 +1,4 @@
-package leetcode刷题.algorithm_pattern.quick_start.实现str函数.双重循环;
+package leetcode.algorithm_pattern.quick_start.实现str函数.双重循环;
 
 /**
  * @description:

@@ -1,4 +1,4 @@
-package leetcode刷题.algorithm_pattern.quick_start.子集;
+package leetcode.algorithm_pattern.quick_start.子集;
 
 import java.util.ArrayList;
 import java.util.List;

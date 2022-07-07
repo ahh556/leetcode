@@ -1,4 +1,4 @@
-package leetcode刷题.algorithm_pattern.binary_tree.traversal.preorderTraversal;
+package leetcode.algorithm_pattern.binary_tree.traversal.preorderTraversal;
 
 import java.util.ArrayList;
 import java.util.List;

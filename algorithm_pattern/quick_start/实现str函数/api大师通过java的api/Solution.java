@@ -1,4 +1,4 @@
-package leetcode刷题.algorithm_pattern.quick_start.实现str函数.api大师通过java的api;
+package leetcode.algorithm_pattern.quick_start.实现str函数.api大师通过java的api;
 
 /**
  * @description:
